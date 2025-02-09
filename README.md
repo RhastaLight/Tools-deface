@@ -58,7 +58,7 @@ pkg update && pkg upgrade
 pkg install git python -y
 
 # Clone repository
-git clone https://github.com/wanzxploit/Tools-deface
+git clone https://github.com/RhastaLight/Tools-deface.git
 cd Tools-deface
 
 # Install Python dependencies
